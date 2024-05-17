@@ -4,3 +4,4 @@ So, what's a Merkle Tree?  It's a hierarchical structure built using cryptograph
 
 In our project, we're leveraging C++ to make this powerful concept to ensure the integrity of files. It takes a file as input, and constructs a Merkle Tree based on its contents. Then, it generate a digital signature using the Merkle Tree structure. This signature serves as a unique identifier for your file, making it easy to verify its authenticity later.
 
+MErkle tree has many widespeard uses in blockchain and crypto.
